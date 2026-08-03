@@ -4,7 +4,11 @@
 
 ### Languages
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+### Frameworks and Libs
+
+![Laravel](https://img.shields.io/badge/Laravel-F05340?logo=laravel&logoColor=white) ![Lumen](https://img.shields.io/badge/Lumen-F05340?logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
 
 ### Databases
 
@@ -16,7 +20,7 @@
 
 ### Testing & Tools
 
-![PHPUnit](https://img.shields.io/badge/PHPUnit-9F7AB5?logo=phpunit&logoColor=white) ![PestPHP](https://img.shields.io/badge/PestPHP-FF6B6B?logo=pest&logoColor=white) ![PHPStan](https://img.shields.io/badge/PHPStan-3AA1DB?logo=php&logoColor=white) ![PHP_CodeSniffer](https://img.shields.io/badge/PHP_CodeSniffer-3AA1DB?logo=php&logoColor=white) ![OXLint](https://img.shields.io/badge/OXLint-4A4A4A) ![OXFmt](https://img.shields.io/badge/OXFmt-4A4A4A) ![Vitest](https://img.shields.io/badge/Vitest-646CFF?logo=vitest&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-3B4F7A?logo=composer&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![PHPUnit](https://img.shields.io/badge/PHPUnit-9F7AB5?logo=phpunit&logoColor=white) ![PestPHP](https://img.shields.io/badge/PestPHP-FF6B6B?logo=pest&logoColor=white) ![PHPStan](https://img.shields.io/badge/PHPStan-3AA1DB?logo=php&logoColor=white) ![PHP_CodeSniffer](https://img.shields.io/badge/PHP_CodeSniffer-3AA1DB?logo=php&logoColor=white) ![OXLint](https://img.shields.io/badge/OXLint-4A4A4A) ![OXFmt](https://img.shields.io/badge/OXFmt-4A4A4A) ![Vitest](https://img.shields.io/badge/Vitest-646CFF?logo=vitest&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-3B4F7A?logo=composer&logoColor=white)
 
 ---
 
