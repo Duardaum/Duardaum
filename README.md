@@ -27,7 +27,7 @@ Software developer with experience publishing open-source PHP packages and C lea
 
 I’m a software developer who focuses on backend systems and developer tooling. My work centers on PHP (Laravel/Lumen) where I design reusable patterns and libraries — for example, I’m the author of the `laravel-repository` package which provides a repository/service layer for Laravel apps and is published for Composer users. I also maintain practical PHP projects for server administration and share C learning projects that reflect my interest in low-level programming and algorithmic practice.
 
-I prefer clean, testable code and pragmatic architecture: repository and service patterns, clear separation of concerns, and automated tests. I publish my code as open source to help other developers and to document practical solutions. If you’d like a fuller biography or a resume-style experience summary I can integrate your LinkedIn About/Experience sections into this copy.
+I prefer clean, testable code and pragmatic architecture: repository and service patterns, clear separation of concerns, and automated tests. I publish my code as open source to help other developers and to document practical solutions.
 
 ## Skills & Technologies
 
