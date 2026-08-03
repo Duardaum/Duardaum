@@ -49,8 +49,6 @@ I prefer clean, testable code and pragmatic architecture: repository and service
 
 Professional experience and detailed role descriptions are available on my LinkedIn profile: https://www.linkedin.com/in/eduardosantosjr/
 
-(If you paste your LinkedIn About and Experience sections here I will integrate them into this README.)
-
 ## Education
 
 - [Add your degree, institution and years here — paste if you want me to fill]
