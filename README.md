@@ -18,9 +18,6 @@
 
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-9F7AB5?logo=phpunit&logoColor=white) ![PestPHP](https://img.shields.io/badge/PestPHP-FF6B6B?logo=pest&logoColor=white) ![PHPStan](https://img.shields.io/badge/PHPStan-3AA1DB?logo=php&logoColor=white) ![PHP_CodeSniffer](https://img.shields.io/badge/PHP_CodeSniffer-3AA1DB?logo=php&logoColor=white) ![OXLint](https://img.shields.io/badge/OXLint-4A4A4A) ![OXFmt](https://img.shields.io/badge/OXFmt-4A4A4A) ![Vitest](https://img.shields.io/badge/Vitest-646CFF?logo=vitest&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white) ![Composer](https://img.shields.io/badge/Composer-3B4F7A?logo=composer&logoColor=white)
 
-
-Software developer with experience publishing open-source PHP packages and C learning projects. This repository is a simple GitHub Pages portfolio (README-based). For a fuller bio and work history, see my LinkedIn: https://www.linkedin.com/in/eduardosantosjr/
-
 ---
 
 ## About
