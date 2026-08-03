@@ -45,22 +45,13 @@ I prefer clean, testable code and pragmatic architecture: repository and service
 - **ragnadonation** — Server administration tool for Ragnarok (PHP)
 
 
-## Experience
+## Education and Experience
 
 Professional experience and detailed role descriptions are available on my LinkedIn profile: https://www.linkedin.com/in/eduardosantosjr/
-
-## Education
-
-- [Add your degree, institution and years here — paste if you want me to fill]
 
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/eduardosantosjr/  
 - GitHub: https://github.com/Duardaum  
-- Email: (add your preferred contact email if you want it shown)
+- X (twitter): https://x.com/Duardaum
 
----
-
-Notes:
-- You asked not to include Projects (they are private) and not to upload a CV or photo — this README respects that.
-- GitHub Pages can publish this repository's README as a static site. Your default branch is `master` so Pages can publish from there. If you want I can also add a simple index.html layout instead of relying on README.
