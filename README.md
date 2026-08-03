@@ -20,7 +20,7 @@
 
 ### DevOps & Cloud
 
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker--Compose-2496ED?logo=docker&logoColor=white) ![Docker Swarm](https://img.shields.io/badge/Docker--Swarm-2496ED?logo=docker&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-0DB7ED?logo=traefik&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![AWS RDS](https://img.shields.io/badge/AWS_RDS-232F3E?logo=aws&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-232F3E?logo=aws&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-232F3E?logo=aws&logoColor=white) ![AWS CodeDeploy](https://img.shields.io/badge/AWS_CodeDeploy-232F3E?logo=aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker--Compose-2496ED?logo=docker&logoColor=white) ![Docker Swarm](https://img.shields.io/badge/Docker--Swarm-2496ED?logo=docker&logoColor=white) ![Traefik](https://img.shields.io/badge/Traefik-0DB7ED?logo=traefik&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=aws&logoColor=white)
 
 ---
 
