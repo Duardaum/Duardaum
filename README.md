@@ -1,5 +1,7 @@
 # Eduardo Santos (Duardaum)
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-F05340?logo=laravel&logoColor=white) ![PHPUnit](https://img.shields.io/badge/PHPUnit-9F7AB5?logo=phpunit&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
 Software developer with experience publishing open-source PHP packages and C learning projects. This repository is a simple GitHub Pages portfolio (README-based). For a fuller bio and work history, see my LinkedIn: https://www.linkedin.com/in/eduardosantosjr/
 
 ---
